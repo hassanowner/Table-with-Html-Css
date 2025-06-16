@@ -34,7 +34,11 @@ The goal of this project is to demonstrate a modern approach to table design tha
 - Clean and modern design
 
 ---
+## Result Preview :
 
+![Table Project Result](Viwe-result.png)
+
+---
 ## ⚠️ Note
 
 This is a **demo structure**, meant to showcase layout capabilities using Flexbox and Grid.  
@@ -44,8 +48,6 @@ If you plan to use it in a real project:
 - Use **media queries** to adapt the design for different screen sizes.
 
 ---
-![Error](Viwe-result.png)
-
 
 ## 🚀 Getting Started
 
