@@ -1,36 +1,53 @@
-# Table-with-Html-Css
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">  
-  <link rel="stylesheet" href="main.css">
-</head>
-<body>
-  <div class="table-container">
-    <div class="table-row header">
-      <div>ID</div>
-      <div>Name</div>
-      <div>Email</div>
-      <div>Age</div>
-    </div>
-    <div class="table-row">
-      <div>1</div>
-      <div>Alice Johnson</div>
-      <div>alice@example.com</div>
-      <div>28</div>
-    </div>
-    <div class="table-row">
-      <div>2</div>
-      <div>Bob Smith</div>
-      <div>bob@example.com</div>
-      <div>34</div>
-    </div>
-    <div class="table-row">
-      <div>3</div>
-      <div>Carol White</div>
-      <div>carol@example.com</div>
-      <div>45</div>
-    </div> 
-  </div>  
-</body>
-</html>
+# 📋 HTML & CSS Table Layout
+
+This project showcases a custom **table layout** built using **HTML and CSS only**, without relying on native `<table>` elements or JavaScript. Instead, it leverages **CSS Flexbox** and **CSS Grid** to achieve a clean, responsive, and flexible design.
+
+---
+
+## 🎯 Objective
+
+The goal of this project is to demonstrate a modern approach to table design that offers:
+
+- Easier layout control and customization
+- Improved responsiveness
+- A cleaner structure compared to traditional table markup
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+  - `display: flex`
+  - `display: grid`
+  - `grid-template-columns`
+  - Responsive design with `@media` queries
+
+---
+
+## ✅ Features
+
+- Fully responsive layout
+- Does **not** use native `<table>`, `<thead>`, or `<tr>` tags
+- Lightweight and easy to integrate
+- Reusable UI component
+- Clean and modern design
+
+---
+
+## ⚠️ Note
+
+This is a **demo structure**, meant to showcase layout capabilities using Flexbox and Grid.  
+If you plan to use it in a real project:
+
+- **You must define a fixed or responsive width and height** for the table based on your layout needs.
+- Use **media queries** to adapt the design for different screen sizes.
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
