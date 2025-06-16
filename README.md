@@ -34,6 +34,7 @@ The goal of this project is to demonstrate a modern approach to table design tha
 - Clean and modern design
 
 ---
+![Error](Viwe-project.png)
 
 ## ⚠️ Note
 
