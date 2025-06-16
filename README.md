@@ -36,7 +36,7 @@ The goal of this project is to demonstrate a modern approach to table design tha
 ---
 ## Result Preview :
 
-![Table Project Result](Viwe-result.png)
+![Table Project Result](View-result.png)
 
 ---
 ## ⚠️ Note
