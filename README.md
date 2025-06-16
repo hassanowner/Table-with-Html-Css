@@ -59,5 +59,9 @@ git clone https://github.com/hassanowner/Table-with-Html-Css.git
 ```
 git clone git@github.com:hassanowner/Table-with-Html-Css.git
 ```
-🔗 [Live Demo](https://hassanowner.github.io/modern-HTML-Table-Design/)
+## 🔍 Live Preview  
+You can explore the working version of this project at the following link:  
+➡️ [Live Project](https://hassanowner.github.io/modern-HTML-Table-Design/)
+
+> **Note:** If images or styles don’t appear correctly, try refreshing the page (`Ctrl + R` or `Cmd + R`).
 
